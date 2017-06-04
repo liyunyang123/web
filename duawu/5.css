@@ -1,0 +1,19 @@
+*{padding-bottom: 0px; margin:0px;}
+body{font:12px/22px "宋体";}
+ul{list-style: none;}
+a{text-decoration: none;color: #333;}
+.logo{width: 40%;margin: 0px ;float: left;}
+.menu{width: 50%; height: 275px;margin-top: 90px; background:url(images/atimg.jpg);float: left;}
+.menu ul{width: 1000px; margin: 0px auto;}
+.menu ul li{float: left;width: 200px;line-height: 170px;}
+.menu a{color: #90ee90;font-size: 40px;}
+.banner,.banner img{width: 100%;height: auto;}
+.main{width: 1000px;margin: 0px auto;}
+.mleft{ width: 371px;height:298px;background:url(images/timgH71K6JAX.jpg) no-repeat;
+ float:left;font-size: 15px;color: #9acd32;text-indent:2em;}
+.mright{width: 625px;height:298px;float: left;padding-left: 3px}
+.mright img{height: 298px;}
+.clear{clear:left;}
+.lest{width: 1000px;margin: 0px auto;}
+.listone{width: 230px;height: 300px; float: left;margin: 10px;}
+.footer{height: 50px;background: #666;color: #aaa;text-align: center;}
