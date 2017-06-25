@@ -1,0 +1,44 @@
+*{padding-bottom: 0px; margin:0px;}
+body{font:12px/22px "宋体";background: #334}
+ul{list-style: none;}
+a{text-decoration: none;color: #fff; font-size: 15px;}
+div{color: #fff}
+.menu{background: #555; width: 1000px; height: 40px;margin: 0px auto;}
+.menu ul{width: 1000px; margin: 0px auto;}
+.menu ul li{float: left;width: 120px;line-height: 40px;}
+.menu a{color: #000;font-size: 20px;}
+.banner{margin:0px auto;width: 1000px;}
+.banner img{height: 580px; width: 1000px;}
+.main{width: 1000px;margin: 0px auto;}
+.back{background: #000}
+.list1{background: #223; width: 480px; float: left;}
+.list1 ul li{line-height: 25px;}
+.list1 span{color: #fff;}
+.blank1 {margin-bottom: 10px;}
+.blank2 {margin-top: 10px;}
+.first{margin: 0px auto; width: 510px; margin-left: 10px; float: left;height: auto;background-image:url(images/zq1.gif);background-size: 510px;background-repeat: no-repeat;}
+.first1{line-height: 22px; height: 22px; width: 200px;text-align: left;margin-left: 10px;color: #fff;}
+.first2 ul {background:#212; overflow: hidden;}
+.first3{margin-left: 10px;color: #ffc900;float: left;}
+.first4 a {font-size: 10px; float: left;margin-right: 8px;}
+.first5{margin: 5px auto; width: 510px; margin-left: 10px; float: left;height: auto;background-image:url(images/zq1.gif);background-size: 510px;background-repeat: no-repeat;}
+.first6 {padding-top: 3px;width: 250px;margin: 0px 0px;float: left;}
+.first7{float: left;margin-left:30px;margin:10px;}
+.first8{float: left;margin-left:50px;}
+.back{margin: 0px auto;  width: 1000px;height: 20px;background-image:url(images/zq1.gif);background-size: 1000px;background-repeat: no-repeat;}
+.back1{line-height: 22px; height: 22px; width: 200px;text-align: left;margin-left: 10px;color: #fff;}
+.clear{clear:left;}
+.footer{height: 50px;background: #000;color: #aaa;text-align: center;}
+.big{width: 1000px; margin: 0 auto; height: auto;}
+.lis{width: 700px;height: auto;float: left;padding: 0px;}
+.lis ul{display: block;float: left; padding: 0px;}
+.lis1{float: left;width:580px;line-height: 20px;}
+.lis2{text-align: right;float: left;}
+.lis3{float: left;}
+.b{margin: 8px 100px; width: 580px;height: 20px;float: left;}
+.t{margin: 5px auto; width: 1000px;text-align: center;border-bottom: 3px #000;}
+.t1{line-height: 14px; color: #777; text-align: center;margin: 20px;}
+.t3{margin:10px auto; font-size: 25px;line-height: 25px;width: 1000px;}
+.ban{margin:10px auto;width: 680px;}
+.bkb{margin: 0px auto; width: 510px; float: left;height: auto;background-image:url(images/zq1.gif);background-size: 480px;background-repeat: no-repeat;}
+input {display: block;margin-top: 10px;float: left;}
